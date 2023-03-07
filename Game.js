@@ -4,6 +4,7 @@ function create() {
     let circle3 = this.add.circle(200, 200, 100, 0x9F00D0);
     let circle4 = this.add.circle(300, 400, 10, 0x00E030);
     let circle5 = this.add.circle(650, 300, 100, 0x00E030);
+    let circle6 = this.add.circle(800, 300, 100, 0x80391e);
   
     // Add in a circle here!
   
